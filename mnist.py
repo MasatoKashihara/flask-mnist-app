@@ -52,6 +52,7 @@ def upload_file():
 
     return render_template("index.html",answer="")
 
+
 # if __name__ == "__main__":
 #     app.run()
 if __name__ == "__main__":
